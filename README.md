@@ -31,7 +31,7 @@
 ### 💰 **[Virtual Stock Trading System](https://github.com/aivanyk/Virtual-Stock-Trading-System)**
 - Created a virtual trading system in Java using MVC and singleton design patterns, with UI designed in Java Swing
 
-### 💼 **Distributed Key/Value Storage System**  
+### 💼 **[Distributed Key/Value Storage System](https://github.com/aivanyk/Distributed-System)**  
 - Developed a fault-tolerant key/value storage system using **OmniPaxos consensus algorithm**  
 
 ### 📱 **[Bluetooth Mouse on Android Mobile](https://github.com/aivanyk/ezController)**

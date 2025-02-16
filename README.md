@@ -11,19 +11,39 @@
 
 ---
 
-## 💼 Professional Experience  
+## 🏙️ Professional Experience  
 
 ### 🐧 Tencent
 *May. 2024 - Sep. 2024*  
 **Software Development Intern at WeChat payment security team, building automated testing system & application tracking system.**  
 
-### 🔰 BU Spark!
+### 🔰 [BU Spark!](https://github.com/aivanyk/se-bad-landlords/tree/badlandlords-v2)
 *Mar. 2024 - May. 2024*  
 **Full-stack Developer for the Boston City Council under the instruction of BU Spark!, visualizing the distribution of bad landlords in the city.**
 
 ### 📖 Shanghai Jiao Tong University
 *Sep. 2022 - May. 2023*  
 **Research Assistant at Reinforcement Learning & Robot Learning Lab, focusing on optimizing intelligent strategy on complex environments.**
+
+--- 
+
+## 📂 Projects  
+### 💰 **[Virtual Stock Trading System](https://github.com/aivanyk/Virtual-Stock-Trading-System)**
+- Created a virtual trading system in Java using MVC and singleton design patterns, with UI designed in Java Swing
+
+### 💼 **Distributed Key/Value Storage System**  
+- Developed a fault-tolerant key/value storage system using **OmniPaxos consensus algorithm**  
+
+### 📱 **[Bluetooth Mouse on Android Mobile](https://github.com/aivanyk/ezController)**
+- An app enabling phone functionality as a Bluetooth mouse, touchpad, or slide controller using Bluetooth HID Profile
+
+### 🚄 **[Backend Design of Travel Agency Web Application](https://github.com/aivanyk/natours)**  
+- Built a travel agency web app using Node.js
+ 
+---
+
+## 🏆 Achievements  
+- 🎖 **[AWS Certified Solutions Architect – Associate (2025)](https://www.credly.com/badges/b1695cf8-ee80-4e6a-8965-e9fc230fd5e4/linked_in_profile)**  
 
 ---
 
@@ -32,26 +52,7 @@
 - **Languages**: Python, Java, SQL, TypeScript, Golang, C++, Kotlin  
 - **Frameworks & Libraries**: React, Next.js, Spring Boot, Tailwind CSS, PyTorch  
 - **Tools**: Kafka, PostgreSQL, Docker, OpenTelemetry, Prisma, MongoDB, GitHub Actions  
-- **Platforms**: AWS, Azure, Netlify, Linux  
-
---- 
-
-## 📂 Projects  
-
-### 💼 **Distributed Key/Value Storage System**  
-- Developed a fault-tolerant key/value storage system using **OmniPaxos consensus algorithm**  
-- Ensured secure and efficient inter-cluster communication with **RPC** and **mutex**  
-
-### 🌐 **Boston City Council Web Application**  
-- Built a web app using **React**, **Next.js**, **PostgreSQL**, and **Mapbox API**  
-- Set up **CI/CD pipeline** and deployed to Netlify with automated tests for builds and deployments  
-
-### 🤖 **Slot Wedge Signal Classification**  
-- Simulated time-series vibration signals in **MATLAB** and trained an **SVM classifier** with 100% accuracy  
----
-
-## 🏆 Achievements  
-- 🎖 **AWS Certified Solutions Architect – Associate (2025)**  
+- **Platforms**: AWS, Azure, Netlify, Linux
 
 ---
 

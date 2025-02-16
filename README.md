@@ -21,10 +21,6 @@
 *Mar. 2024 - May. 2024*  
 **Full-stack Developer for the Boston City Council under the instruction of BU Spark!, visualizing the distribution of bad landlords in the city.**
 
-### 📖 Shanghai Jiao Tong University
-*Sep. 2022 - May. 2023*  
-**Research Assistant at Reinforcement Learning & Robot Learning Lab, focusing on optimizing intelligent strategy on complex environments.**
-
 --- 
 
 ## 📂 Projects  
@@ -39,6 +35,9 @@
 
 ### 🚄 **[Backend Design of Travel Agency Web Application](https://github.com/aivanyk/natours)**  
 **Built a travel agency web app using Node.js.**  
+
+### 📖 **Gaming strategy of curling robot**
+**Research Assistant at SJTU Reinforcement Learning & Robot Learning Lab, focusing on optimizing intelligent strategy in complex environments.**
  
 ---
 

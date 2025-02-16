@@ -61,11 +61,11 @@
 
 ---
 
-## 📫 Connect With Me  
+## 🤝 Connect With Me  
 
 - 💼 [LinkedIn](https://linkedin.com/in/zhiyanhu)  
-- 🌟 [GitHub](https://github.com/aivanyk)  
-- 📧 [Email](wh110668@gmail.com)
+- 📫 [wh110668@gmail.com](mailto:wh110668@gmail.com)  
+
 
 ---
 

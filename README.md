@@ -29,16 +29,16 @@
 
 ## 📂 Projects  
 ### 💰 **[Virtual Stock Trading System](https://github.com/aivanyk/Virtual-Stock-Trading-System)**
-- Created a virtual trading system in Java using MVC and singleton design patterns, with UI designed in Java Swing
+**Created a virtual trading system in Java using MVC and singleton design patterns, with UI designed in Java Swing.**  
 
 ### 💼 **[Distributed Key/Value Storage System](https://github.com/aivanyk/Distributed-System)**  
-- Developed a fault-tolerant key/value storage system using **OmniPaxos consensus algorithm**  
+**Developed a fault-tolerant key/value storage system using OmniPaxos consensus algorithm.**  
 
 ### 📱 **[Bluetooth Mouse on Android Mobile](https://github.com/aivanyk/ezController)**
-- An app enabling phone functionality as a Bluetooth mouse, touchpad, or slide controller using Bluetooth HID Profile
+**An app enabling phone functionality as a Bluetooth mouse, touchpad, or slide controller using Bluetooth HID Profile.**
 
 ### 🚄 **[Backend Design of Travel Agency Web Application](https://github.com/aivanyk/natours)**  
-- Built a travel agency web app using Node.js
+**Built a travel agency web app using Node.js.**  
  
 ---
 
